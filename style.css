@@ -181,8 +181,8 @@ section.topo-do-site .flex{
     margin: 40px 0;
 }
 
-.topo-do-site .img-topo-site img {
-    width: 400px;
+.topo-do-site .img-topo-do-site img {
+    width: 390px;
     position: relative;
     animation: flutuar 2s ease-in-out infinite alternate;
 }
@@ -469,7 +469,7 @@ footer .logo-footer img {
         font-size: 32px;
     }
 
-    .topo-do-site .img-topo-site img {
+    .topo-do-site .img-topo-do-site img {
         width: 350px;
     }
 
